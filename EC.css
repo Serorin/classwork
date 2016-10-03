@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+}
+
+.center {
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    background-color: #83efa5;
+    margin: 0;
+    display: table;
+}
+
+.center h1{
+  vertical-align: middle;
+  margin: 0;
+  display: table-cell;
+}
+
+.category {
+    font-size: 20px;
+    margin: 0;
+}
+
+.content {
+    text-align: right;
+    width: 300px;
+    height: 200px;
+    float: right;
+    margin-left: auto;
+}
+
+.img {
+    width: auto;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 400px;
+}
+
+main {
+    display: table;
+}
+
+main div {
+    display: table-cell;
+}
+
+.drink {
+    display: inline-block;
+}
+
+.info1 {
+    position: relative;
+    background-color: #c9d6ca;
+    width: 400px;
+    height: 150px;
+    top:90px;
+    margin-bottom: 500px;
+    margin-left:33%;
+}
+
+.info1 tr td {
+    border-bottom: 2px #95a099 dotted;
+
+}
+
+.info2 {
+    height: 35px;
+}
+
+.public {
+    float: left;
+    width: 33%;
+    height: 200px font-family: 'Nunito', sans-serif;
+}
+
+.Product{
+  position: relative;
+  margin: 0;
+  padding-left: 300px;
+  padding-right: 100px;
+  width: auto;
+  height: auto;
+
+}
+
+.Description{
+  padding: 0;
+  line-height: 1.6;
+  color: #666;
+  border: 0;
+  font-size: 13px;
+}
